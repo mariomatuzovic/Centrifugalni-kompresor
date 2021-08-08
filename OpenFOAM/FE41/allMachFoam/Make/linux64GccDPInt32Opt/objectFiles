@@ -1,0 +1,4 @@
+OBJECTS = \
+$(OBJECTS_DIR)/allMachFoam.o\
+$(OBJECTS_DIR)/isentropicTotalTemperatureFvPatchScalarField.o\
+$(OBJECTS_DIR)/isentropicTotalPressureFvPatchScalarField.o

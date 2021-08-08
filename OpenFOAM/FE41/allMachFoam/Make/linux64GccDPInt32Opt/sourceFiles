@@ -1,0 +1,4 @@
+SOURCE = \
+allMachFoam.C\
+isentropicTotalTemperature/isentropicTotalTemperatureFvPatchScalarField.C\
+isentropicTotalPressure/isentropicTotalPressureFvPatchScalarField.C

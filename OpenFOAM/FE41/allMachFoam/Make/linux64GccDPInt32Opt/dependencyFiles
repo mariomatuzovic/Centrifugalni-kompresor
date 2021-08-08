@@ -1,0 +1,4 @@
+DEPENDENCIES = \
+allMachFoam.dep\
+isentropicTotalTemperature/isentropicTotalTemperatureFvPatchScalarField.dep\
+isentropicTotalPressure/isentropicTotalPressureFvPatchScalarField.dep

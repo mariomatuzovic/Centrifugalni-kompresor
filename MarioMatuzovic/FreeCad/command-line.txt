@@ -1,0 +1,2 @@
+freecadcmd impeler.py -> LINUX
+"D:\FreeCAD 0.19\bin\FreeCADCmd.exe" impeler.py -> WINDOWS

@@ -1,0 +1,6 @@
+allMachFoam.C
+
+isentropicTotalTemperature/isentropicTotalTemperatureFvPatchScalarField.C
+isentropicTotalPressure/isentropicTotalPressureFvPatchScalarField.C
+
+EXE = $(FOAM_USER_APPBIN)/allMachFoam

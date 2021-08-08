@@ -1,0 +1,4 @@
+LOCAL_OBJECTS = \
+allMachFoam.o\
+isentropicTotalTemperatureFvPatchScalarField.o\
+isentropicTotalPressureFvPatchScalarField.o

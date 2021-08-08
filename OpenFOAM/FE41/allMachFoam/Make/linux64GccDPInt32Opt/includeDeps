@@ -1,0 +1,3 @@
+include allMachFoam.dep
+include isentropicTotalTemperature/isentropicTotalTemperatureFvPatchScalarField.dep
+include isentropicTotalPressure/isentropicTotalPressureFvPatchScalarField.dep
